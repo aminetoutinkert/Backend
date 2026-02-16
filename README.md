@@ -1,6 +1,7 @@
 # Backend
 
 This is a great roadmap for mastering the MERN backend. To make this "GitHub-ready," I’ve restructured it using clear hierarchy, icons, and code blocks to make it highly scannable for developers.
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/d1bd9592-966b-4aed-838b-9a6d58322ba4" />
 
 ---
 
